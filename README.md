@@ -27,6 +27,10 @@ cd tutorial01
 pip install -r requirements.txt
 ```
 
+## Tutorials
+
+[#01] Setup development server and debugging mode
+
 ## Documentations
 
 [Flask] version 2.0.x  
@@ -38,3 +42,4 @@ pip install -r requirements.txt
 
 [main directoy]: ./
 [main requirements.txt]: ./requirements.txt
+[#01]: ./tutorial01/
