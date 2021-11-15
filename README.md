@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ## Tutorials
 
 [#01] Setup development server and debugging mode
+[#02] Run Flask application using Python code
 
 ## Documentations
 
@@ -42,4 +43,6 @@ pip install -r requirements.txt
 
 [main directoy]: ./
 [main requirements.txt]: ./requirements.txt
+
 [#01]: ./tutorial01/
+[#02]: ./tutorial02/
