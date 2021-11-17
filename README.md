@@ -1,6 +1,6 @@
 # Python Flask Web Application Tutorials
 
-Consists of a list of basic tutorials needed for flask web application develpoment.
+Consists of a list of basic tutorials needed for flask web application development.
 
 Each tutorial has its own directory in the naming format of `tutorial([0-9]*)` and consists of its own files and folders i.e, the structure might change for each tutorial directory.  
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Tutorials
 
-[#01] Setup development server and debugging mode
+[#01] Setup development server and debugging mode  
 [#02] Run Flask application using Python code
 
 ## Documentations
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 [Flask]: https://flask.palletsprojects.com/en/2.0.x/
 [virtualenv]: https://virtualenv.pypa.io/en/latest/installation.html
 
-[main directoy]: ./
+[main directoy]: /../../
 [main requirements.txt]: ./requirements.txt
 
 [#01]: ./tutorial01/
